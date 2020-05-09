@@ -1,0 +1,40 @@
+Name: An Nguyen
+USC ID: 5483094728
+News site crawled: wsj.com
+Number of threads: 16
+
+Fetch Statistics
+================
+fetches attempted: 19976
+fetches succeeded: 19012
+fetches failed or aborted: 964
+
+Outgoing URLs:
+==============
+Total URLs extracted: 4464880
+# unique URLs extracted: 1782081
+# unique URLs within News Site: 181212
+# unique URLs outside News Site: 1600869
+
+Status Codes:
+=============
+200 OK: 19012
+301 Moved Permanently: 822
+302 Found: 22
+307 Temporary Redirect: 62
+401 Unauthorized: 15
+404 Not Found: 43
+
+File Sizes:
+===========
+< 1KB: 3
+1KB ~ <10KB: 134
+10KB ~ <100KB: 1623
+100KB ~ <1MB: 17113
+>= 1MB: 107
+
+Content Types:
+==============
+image/jpeg: 15
+image/png: 159
+text/html: 18806

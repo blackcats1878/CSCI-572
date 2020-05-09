@@ -1,0 +1,4 @@
+As we can see from the averages, Google and Yahoo results have a low number of overlapping results. Not only that, the
+overlapping results' position also yield a negative Spearman correlation coefficient, indicating that those results
+are unrelated. So not only Google and Yahoo use different ways to determine the relevancy of the URL in relation to the
+query, they also applies different techniques to rank those URLs.
