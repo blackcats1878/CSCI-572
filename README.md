@@ -28,25 +28,13 @@
 
 <h3>Homework 3: Creating an Inverted Index Using a Hadoop Cluster </h3>
 <p>
-    Objectives:
-    <ul>
-        <li>
-            Creating an Inverted Index of words occurring in a set of web pages
-        </li>
-        <li>
-            Getting hands-on experience in GCP App Engine, (and maybe AWS + 
-            Microsoft Azure)
-        </li>
-    </ul>
+    Objectives: Creating an Inverted Index of words occurring in a set of web pages 
+    and getting hands-on experience in GCP App Engine, (and maybe AWS + Microsoft Azure)
 </p>
 
 <h3>Homework 4: Indexing the Web Using Solr</h3>
 <p>
-    Objectives:
-    <ul>
-        <li>Experiecne using Solr</li>
-        <li>Investigating ranking strategies</li>
-    </ul>
+    Objectives:Experiecne using Solr and investigating ranking strategies
 </p>
 <ul>
     <li>Task1: Indexing the provided webpages using Solr</li>
@@ -56,9 +44,6 @@
 
 <h3>Homework 5: Enhancing Your Search Engine</h3>
 <p>
-    Objectives:
-    <ul>
-        <li>Experience using a third-party spell program</li>
-        <li>Developing efficient methods for accomplishing autocomplete</li>
-    </ul>
+    Objectives: Experience using a third-party spell program and developing efficient 
+    methods for accomplishing autocomplete
 </p>
