@@ -34,7 +34,7 @@
 
 <h3>Homework 4: Indexing the Web Using Solr</h3>
 <p>
-    Objectives:Experiecne using Solr and investigating ranking strategies
+    Objectives: Experiecne using Solr and investigating ranking strategies
 </p>
 <ul>
     <li>Task1: Indexing the provided webpages using Solr</li>
