@@ -27,7 +27,18 @@
 </ul>
 
 <h3>Homework 3: Creating an Inverted Index Using a Hadoop Cluster </h3>
-Lorem Ipsum
+<p>
+    Description:
+    <ul>
+        <li>
+            Creating an Inverted Index of words occurring in a set of web pages
+        </li>
+        <li>
+            Getting hands-on experience in GCP App Engine, (and maybe AWS + 
+            Microsoft Azure)
+        </li>
+    </ul>
+</p>
 
 <h3>Homework 4: Indexing the Web Using Solr</h3>
 Lorem Ipsum
