@@ -1,6 +1,6 @@
 <h2>CSCI-572: Information Retrieval and Web Search Engines</h2>
 <h3>Homework 1: Comparing Search Engine Results</h3>
-<p>Description: Comparing the search results from Google versus Yahoo!</p>
+<p>Objectives: Comparing the search results from Google versus Yahoo!</p>
 <ul>
     <li>Task1: Scraping results from your assigned search engine</li>
     <li>Task2: Determining the Percent Overlap and the Spearman Coefficient</li>
@@ -8,7 +8,7 @@
 
 <h3>Homework 2: Web Crawling</h3>
 <p>
-    Description: Working with a simple web crawler to measureaspects of a crawl, 
+    Objectives: Working with a simple web crawler to measureaspects of a crawl, 
     studying the characteristicsof  the  crawl,  downloading  web  pages from  
     the crawl and gathering webpage metadata,  all from pre-selected news 
     websites.
@@ -28,7 +28,7 @@
 
 <h3>Homework 3: Creating an Inverted Index Using a Hadoop Cluster </h3>
 <p>
-    Description:
+    Objectives:
     <ul>
         <li>
             Creating an Inverted Index of words occurring in a set of web pages
@@ -42,7 +42,7 @@
 
 <h3>Homework 4: Indexing the Web Using Solr</h3>
 <p>
-    Description:
+    Objectives:
     <ul>
         <li>Experiecne using Solr</li>
         <li>Investigating ranking strategies</li>
@@ -56,7 +56,7 @@
 
 <h3>Homework 5: Enhancing Your Search Engine</h3>
 <p>
-    Description:
+    Objectives:
     <ul>
         <li>Experience using a third-party spell program</li>
         <li>Developing efficient methods for accomplishing autocomplete</li>
