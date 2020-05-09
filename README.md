@@ -41,7 +41,24 @@
 </p>
 
 <h3>Homework 4: Indexing the Web Using Solr</h3>
-Lorem Ipsum
+<p>
+    Description:
+    <ul>
+        <li>Experiecne using Solr</li>
+        <li>Investigating ranking strategies</li>
+    </ul>
+</p>
+<ul>
+    <li>Task1: Indexing the provided webpages using Solr</li>
+    <li>Task2: Running a series of queries on the Solr index</li>
+    <li>Task3: Comparing the results of the two ranking algorithms</li>
+</ul>
 
 <h3>Homework 5: Enhancing Your Search Engine</h3>
-Lorem Ipsum
+<p>
+    Description:
+    <ul>
+        <li>Experience using a third-party spell program</li>
+        <li>Developing efficient methods for accomplishing autocomplete</li>
+    </ul>
+</p>
