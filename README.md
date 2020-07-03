@@ -1,7 +1,5 @@
 <h2>CSCI-572: Information Retrieval and Web Search Engines</h2>
 
-Inputs
-
 | Homework | Name | Description | Languages | Libraries |
 | -------- | ---- | ----------- | --------- | --------- |
 | 1 | Web Search Engine Comparison | Comparing the search results from Google versus Yahoo | Python | Beautiful Soup, json, random, requests, time, urllib |
